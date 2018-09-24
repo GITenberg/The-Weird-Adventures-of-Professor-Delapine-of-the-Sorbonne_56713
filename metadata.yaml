@@ -1,11 +1,16 @@
 _repo: The-Weird-Adventures-of-Professor-Delapine-of-the-Sorbonne_56713
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56713-h/images/cover.jpg
 creator:
   author:
     agent_name: Johnson, George Lindsay
     gutenberg_agent_id: '48996'
     url: http://www.gutenberg.org/2009/agents/48996
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56713#The-Weird-Adventures-of-Professor-Delapine-of-the-Sorbonne
 gutenberg_issued: '2018-03-10'
 gutenberg_type: Text
 identifiers:
